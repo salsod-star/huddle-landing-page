@@ -148,12 +148,16 @@
 
 @media screen and (max-width: 500px){
     .btn-ghost{
-        padding: 1em 2em !important;
-        font-size: .7em !important;
+        padding: 1em 2.5em !important;
+        font-size: .6em !important;
     }
 
     .top-nav img{
-        width: 80% !important;
+        width: 100% !important;
         height: auto;
+    }
+
+    .top-nav .logo{
+        flex-basis: 50% !important;
     }
 }
