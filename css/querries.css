@@ -153,11 +153,11 @@
     }
 
     .top-nav img{
-        width: 80% !important;
+        width: 100% !important;
         height: auto;
     }
 
     .top-nav .logo{
-        flex-basis: 40% !important;
+        flex-basis: 35% !important;
     }
 }
